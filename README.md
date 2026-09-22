@@ -1,10 +1,10 @@
 # SZTTE
 
 ## Paper  
-submitted  
+under review  
 
 ## Scripts  
-1. Create database on SAS  
+1. Create database on SAS - unavailable  
 2. SZTTE_PreProcess_data.R creates merged_.RData (all data merged in one db)  
 3. SZTTE_Process_data processes merged_, rearranges db, does feature ingeneering, and does preliminary analysis.   
 Creates merged_listwise.RData with   
